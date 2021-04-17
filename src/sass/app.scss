@@ -1,0 +1,16 @@
+// Fonts
+@import url('https://fonts.googleapis.com/css?family=Roboto&family=Rubik');
+
+// Variables
+@import 'variables';
+
+// Bootstrap
+@import '~bootstrap/scss/bootstrap';
+
+.text-light-gray{
+    color: #98A9BC;
+}
+
+body{
+    font-weight: 500 !important;
+}
